@@ -1,0 +1,170 @@
+---
+title: IE Is Evil：回顾
+date: 2020-02-23 13:56:19
+---
+<p><a href="http://toastytech.com/evil/retrospective.html" target="_blank" rel="noopener">http://toastytech.com/evil/retrospective.html</a></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>有史以来最丑的Web浏览器IE 4，发布以来已经有10年了。从那开始，很多东西发生了变化。有一些还保持不变。在过去的岁月里，似乎世界已经忘记了这一切。</p>
+<p><strong>为什么IE 4如此疯狂？</strong><br>Internet Explorer 4，代表着Microsoft的突然而拼命的努力，旨在将Netscape推向市场。IE 4是当您让市场营销制定软件设计决策时发生的情况的一个示范。</p>
+<p>简而言之，微软试图让IE做一些Web浏览器不应该做的事情，然后将它推到了我们的喉咙。</p>
+<p>具体的邪恶（evil）行为包括：</p>
+<ul>
+<li>IE 4捆绑了很多废话。</li>
+<li>“增强型”桌面外壳使用IE AS作为桌面和文件浏览器。</li>
+<li>IE品牌标记放置在文件浏览器和许多其他位置。</li>
+<li>“频道栏”将广告直接放在桌面上。</li>
+<li>在渲染方面，它以自己的方式进行HTML渲染。</li>
+<li>天坑级的BUG（很多有意为之）！</li>
+<li>容易坏掉（？）的win95系统。</li>
+<li>对于许多程序来说不必要的一些要求。</li>
+<li>没有选择来阻止在Windows 98下的安装或卸载。</li>
+</ul>
+<p>将以上这些行为和有Windows PC的整个办公室加起来，这就是一个噩梦级的、难以支持、而且非常非常难以避免的应用程序。</p>
+<p><strong>我为什么这么讨厌它？</strong></p>
+<p>人们常常会误解我为什么讨厌IE。</p>
+<p>我不反对MS编写或出售浏览器。我甚至不反对在他们的操作系统中包含个这。我反对的是他们如何使那半屁股的（half-assed）垃圾变成强制性的。</p>
+<p>我实际上生活在“网络空间（cyberspace）”中，因此，当这个不需要的软件试图反复闯入我的个人领域时，我很生气。我个人认为是这样。</p>
+<p>早在1998年，我就非常生气，差点就考虑是否开车去雷德蒙德（Redmond）把比尔·盖茨（Bill Gates）踢疯。 幸运的是，我决定不这样做，而是创建了一个有关它的网站。</p>
+<p>Netscape固然有它的缺陷，但是当Netscape崩溃时，我最需要做的就是删除配置文件夹，卸载Netscape，然后重新安装。但IE问题通常涉及重新格式化。</p>
+<p>和IE的安全性？什么安全性？比尔坐在那里说，“我——们不需要任何安全保障！” 当然，所有非常复杂的应用程序都存在安全问题。那永远不会改变的。但是，对于IE 3/4/5，我们不是在谈论注入的汇编程序代码引起的什么“缓冲区溢出”，而是在讨论浏览器功能，那些可以使程序员随意执行他们想要的任何事情的功能。</p>
+<p>记住，在这段时间里，人们开始不断、不断、不断地讨论如何将Web浏览器用做让操作系统过时的“应用平台”。（而且他们仍然没有对这个弱智的想法住口！！！）。从他们的编译器和OS的背景出发，MS添加了旨在“对程序员友好”的功能，并积极鼓励人们使用它们。但是他们完全没有意识到潜在的滥用行为。访问错误的网站，您的硬盘驱动器将要重新格式化。那，我是否提到您被迫安装了该软件？</p>
+<p>相比之下，Netscape无限地“安全”，仅仅是因为它或多或少地坚持了Web浏览器应做的事情——检索和显示文档。</p>
+<p><strong>那IE干了啥？</strong><br>在20个州起诉微软之后，美国司法部裁定微软犯有滥用其操作系统垄断的罪行。但是微软完全不当回事。</p>
+<p>一旦Netscape成为历史，Microsoft基本上能让IE烂掉了。</p>
+<p>幸运的是，Firefox，Opera和Safari不仅存活了下来，而且还领先于IE，为Web技术提供了众多选择。 </p>
+<hr>
+<h1 id="回顾"><a href="#回顾" class="headerlink" title="回顾"></a>回顾</h1><p><strong>1969年10月29日：互联网建立。</strong><br>第一批信息是通过我们所知道的互联网来发送的。最终目标：交流色情。:)</p>
+<p>（对于那些不知道的人来说，在“网络”出现之前，存在许多其他通过互联网传播信息的方法。） </p>
+<p><strong>1991年8月</strong>：<br>蒂姆·伯纳斯·李（Tim Berners-Lee）发布了第一个Web浏览器，最初名为“万维网（World Wide Web）”。</p>
+<p>基于此的各种独立编写的浏览器实现。 </p>
+<p><strong>1993年11月</strong>：<br>NCSA Mosaic发布。在当时的许多非商业（免费）浏览器中，Mosaic成为最受欢迎的浏览器。后来它被许可收费使用，用于商业产品。 </p>
+<p><strong>1994年12月</strong>：<br>Netscape 1.0，第一个商用浏览器发布。它被免费许可用于个人和非营利性用途，但希望公司支付许可费用。</p>
+<h2 id=""><a href="#" class="headerlink" title=""></a><img src="/img/ieisevil/nrunup5.gif" alt=""></h2><p><strong>1995年8月：</strong><br>Microsoft Internet Explorer 1.0发行并作为Win95 PLUS!的一部分出售。此版本仅是Mosaic的许可和更名版本。<br>Windows 95的软盘版本不包含Web浏览器。</p>
+<p>CD版本将IE作为必需程序。</p>
+<p><strong>比较：</strong><br>在这一点上，IE 1和Netscape 1的功能都非常有限。网络对大多数人来说还不重要，但是关于“网络”的议论正在增长。IE 2，和后来的Netscape 1和Netscape 2，基本上是相同的。</p>
+<p>由于操作系统种类繁多，因此跨平台功能非常重要。早期版本的Netscape可用于Microsoft Windows 16和32位、MacOS、HP-UX、Solaris、IBM OS / 2，以及新兴的“Linux”。</p>
+<p>相比之下，IE仅针对Windows 16和32位以及MacOS发行。（大约一半的HP-UX和Solaris版本是在IE 5发布那会发布的）</p>
+<p>在这里的某个地方，Microsoft开始提供IE的“免费”下载。“免费”表示实际成本来自Windows和MS-Office的销售。（这给Microsoft授予Mosaic许可的人们造成了一些有趣的问题，因为这使他们无法从许可交易中获得每份副本的收入）</p>
+<p>随着Netscape和IE的流行，大多数不太常见的浏览器开始消失。</p>
+<hr>
+<p><strong>1996年8月：</strong><br>Netscape 3.0发布。这可能是Netscape浏览器中最受欢迎的版本。它通过渲染功能达到了某个“最佳点”，胜过当时机器上的内存使用和速度。<br>长期以来，Netscape 3的渲染功能（HTML 3）被认为是网站和浏览器的最低实际兼容性。</p>
+<p>这也是捆绑Sun的Java的第一个版本，Java可以使真实的程序能够在浏览器中跨多个平台运行。 </p>
+<p><strong>1996年8月：</strong><br>Microsoft Internet Explorer 3发布。与IE 1和2基本上只是Mosaic的重新命名版本不同，IE 3则是集中的重写。这导致了其他Windows应用程序嵌入浏览器，从而使用其网络库或以编程方式调用其他组件的功能。IE3，也是让Win32二进制文件（或 “OLE嵌入式控件”、 ActiveX）能够自动下载、并在IE的Windows 95 / NT版本中运行的第一个版本。</p>
+<p>请记住，Microsoft的核心能力其实是提供程序员使用的编程语言和工具。对他们来说，这似乎是一个好主意，他们没有考虑后果。</p>
+<p>这也是“浏览器之战”真正开始升温的时候，所以每个人都迅速着手解决问题。</p>
+<p>Windows 95 OEM Service Release 2（简称OSR2）已更新为捆绑IE3。OSR2只主要授权给计算机制造商，因此，尽管大多数新计算机上都出现了OSR2，但Windows 95的盒装零售版仍包含IE 1。 </p>
+<p>同样是在1996年：<br>Opera 2.0，其第一个公开发布的版本。Opera是商业软件，并非免费发行。在最长30天的试用期后，必须购买许可证。</p>
+<p><strong>比较：</strong><br>明智的IE 3和Netscape 3的渲染大致相同。但是IE 3是一个全新的重写，比Netscape的错误多得多。直接基于Netscape 1和2的Netscape 3（并且尚未发布）相对牢固且稳定。</p>
+<p>Netscape仍然广受欢迎，但现在Microsoft正在对其赶尽杀绝。</p>
+<p>在1996年Compaq从其Presarios桌面上删除了MSN和Internet Explorer图标以推广AOL和Netscape Navigator之后，Microsoft给Compaq发了一封信，指出如果Compaq不还原MSN，他们将终止Compaq Windows 95的许可以及把Internet Explorer图标恢复到原始位置。（摘自《司法部对206个事实的调查》（DOJ Finding of Fact 206））</p>
+<hr>
+<p><strong>1997年6月：</strong><br>Netscape Communicator 4发布。<br>它包括各种渲染增强功能，例如最初的CSS实施和稍微修改的用户界面。它包括Netcaster，Mail，Composer，并捆绑了许多应用程序。</p>
+<p>与Netscape 3相比，最初的发行版存在一些bug，而且相当于当时计算机上的内存消耗量。 </p>
+<p><strong>1997年8月：</strong><br>Netscape宣布了一项倡议，旨在组建许多“行业合作伙伴”，以将Navigator浏览器与产品捆绑。 </p>
+<p><strong>1997年8月：</strong><br>苹果被迫将IE for Mac捆绑为默认浏览器，而不是Netscape。否则，Microsoft将不会继续为Mac生产MS-Office。史蒂夫·乔布斯被反对，因为他宣布IE将成为默认浏览器。 </p>
+<p><strong>1997年9月：</strong><br>Internet Explorer 4发布。邪恶（EVIL）！太邪恶了！！！！！！ （我提到过是不是？）</p>
+<p>微软竭尽全力并成功地使IE 4包含在宇宙中的每个软件中，并以编程方式使用IE 4，无论它是否有意义。</p>
+<p>对于95和NT 4，Microsoft搞了一个“外壳更新”，该更新使用IE作为文件浏览器。其作用就是在启动时加载IE并将其保留在内存中。IE的启动速度要快得多，而其他浏览器的启动速度则要慢一些，因为它们可用的内存减少了。IE 4比IE 3占用更多的内存。</p>
+<p>安装IE 4还可以自由更改/更新其他Windows系统文件，这是通常会引起问题的行为。</p>
+<p>在IE 3中，唯一出现“e”徽标的地方是在浏览器中。IE 4采取了品牌推广计划，并将徽标放置在各种地方，而且很多都不合适。</p>
+<p>很明显，他们就想将其与下一版本的Windows捆绑在一起，永不分离。</p>
+<p><img src="/img/ieisevil/eyee4.gif" alt=""></p>
+<p><strong>1997年：</strong><br>Opera 3.0发布，可用于多种操作系统。<br>【比较】<br>渲染方面，IE 4和Netscape 4有所不同，并且各自发展方向，添加了自己专有的渲染扩展。这使它们有点“和而不同”。这增加了只能在IE中运行或只能在Netscape中运行的站点的问题。有人会说IE 4更接近“标准”，但这仅仅是因为历史有利于获胜者。Microsoft的许多专有扩展最终成为“标准”，而Netscape的专有扩展逐渐消失。</p>
+<p>在1997年底，Netscape似乎感到非常恐慌。由于Microsoft阻止他们从其浏览器软件中获利，因为他们已经依靠其他产品（例如服务器软件）来获利，因此他们将Netscape.com转到了新闻/聊天网站。Windows 98要做什么，已经众所周知。</p>
+<hr>
+<p><strong>1998年1月：</strong><br>Netscape宣布Netscape浏览器现在将完全免费，以后的版本将是开源的。Mozilla.org形成，并发布了源代码。（随后有许多开发/测试版发布）<br>Netscape协助开发这个新的代码为“Mozilla”的浏览器，，以使用Mozilla作为下一代Netscape浏览器的核心。</p>
+<p><img src="/img/ieisevil/retromozilla.gif" alt=""></p>
+<p><strong>1998年5月18日：</strong><br>美国司法部和20个州的检察长对微软提起反托拉斯（antitrust，不知对不对）诉讼。 </p>
+<p><strong>1998年6月：</strong><br>Windows 98发布。这是个“不可移除地??”捆绑了IE 4，并且仅包含“增强型” IE桌面外壳的Windows版本。</p>
+<p>要注意到的是，Windows 95在安装过程中为用户提供了选择Win95桌面外壳程序或Win3.1程序管理器外壳程序的选择。Windows 98中没有包含使用其他外壳的此类选项。</p>
+<p>微软声称不可能删除Internet Explorer，因为它已“集成”到操作系统中。 </p>
+<p><strong>1998年11月22日：</strong><br>Shane Brooks发布了98lite，实际上可以从Windows 98中删除IE 4，并为用户提供了在98上使用更简约、更快的Windows 95桌面外壳的选项。</p>
+<p><strong>1998年10月27日，</strong><br>有些同志厌倦了在 <code>alt.destroy.microsoft</code> 上发布公告，并建立了自己的网站，向全世界说明IE是多么可恶。<br>【附：网站代表】<br><img src="http://toastytech.com/evil/retrobarevil.gif" alt=""><br>（我从未见过如此厚颜无耻之人）</p>
+<p><strong>1998年10月19日：</strong><br>Netscape Communicator 4.5发布。</p>
+<p>此版本与4.0x相比，除了版本号增加外，没有什么实质性的区别。这仅是次要更新，并不基于新的Mozilla。Netscape Communicator 4.xx继续接收小更新，直到2002年为止，实际版本为4.80。 </p>
+<p><strong>1998年11月：</strong><br>AOL收购了Netscape。该公司Netscape成为AOL的Netscape通讯部门。</p>
+<p>最初，人们对该合并有很多负面担忧，但是在接下来的几年中，这种合并似乎对Mozilla / Netscape浏览器的开发是有益的。 </p>
+<p><strong>1999年3月：</strong><br>IE 5发布。</p>
+<p>Microsoft Internet Explorer 5已被大量清理，并删除了IE 4添加的一些疯狂内容。IE 5与Windows 98SE和Windows 2000（NT 5）一块捆绑。IE 5.5稍作修订，后来与Windows ME捆绑在一起。</p>
+<p><strong>比较</strong><br>有些人已经说过IE的使用量已经超过Netscape，但是，Microsoft仅仅在这一点上领先于Netscape浏览器。</p>
+<hr>
+<p><strong>2000年3月：</strong><br>Mac版IE 5发布。<br>Mac的IE 5与Windows的IE基于不同的代码。在某些方面，适用于Mac的IE 5比Windows版本更高级，但是它所做的事情足够不同，以至于在适用于Windows的IE 5上的页面通常无法在Mac版本上运行。 </p>
+<p><strong>2000年6月7日</strong>：<br>Microsoft发现GUILTY非法滥用其垄断地位。</p>
+<p>可悲的是，当这些“补救措施”最终宣布时，它们没有达到所需的水平，对微软来说可谓是轻而易举。 </p>
+<p><strong>2000年11月：</strong><br>Netscape 6.0发布。</p>
+<p>在由于对Netscape 4.x日渐过时而感到恐慌的情况下，Netscape发布了基于Mozilla早期版本的6.0版。</p>
+<p>不幸的是，它实际上还没有准备好用于一般用途。与IE，Netscape 4.x，甚至它基于的Mozilla版本相比，Netscape 6.0的速度非常非常地缓慢，且存在不少bug。</p>
+<p>许多网站很快就对Netscape 6表示了反对，并表示他们是否会支持它。</p>
+<p>升级到“6.0”是为了防止对直接基于Netscape 4的“Netscape 5.0”的早期开发感到困惑，因为该版本使用了新重写的渲染引擎。 </p>
+<p><strong>2000年12月：</strong><br>Opera 5.0发布：<br>与以前的版本相比，Opera的使用发生了重大变化，不再局限于30天的试用期。相反，它通过显示横幅广告直到您购买了许可证而成为“广告赞助”。这为更多人使用它打开了大门，即使他们不会或无法直接付款。</p>
+<p><strong>【比较】</strong><br>许多人认为Netscape通过发布其漏洞百出的6.0版已使自己立足。</p>
+<p>Mozilla和Netscape 6放弃了一些专有的Netscape 4渲染扩展，而更多站点仅针对IE设计，这增加了障碍。</p>
+<p>Netscape 6最终基于更新的Mozilla预发行版更新了6.1和6.2x版本，解决了许多问题。</p>
+<p>Opera比IE和Netscape更小，速度更快，同时提供了许多相同的渲染功能，因此它正在慢慢地步入正轨。</p>
+<hr>
+<p><strong>2001年8月27日</strong><br>IE 6.0发布。<br>除了那锃光瓦亮的图标以外，这玩意与IE 5.x并没有太大区别。该版本的发布，主要用于与Windows XP捆绑在一起。</p>
+<p>此时，Microsoft基本上停止了IE的开发。发布的“Service Pack”和更新程序主要解决了许多小错误修复和安全性问题。数年后，随着其他浏览器开始威胁微软，微软将再次获得真正的发展。 </p>
+<p><strong>2002年6月5日：</strong><br>Mozilla 1.0发布。</p>
+<p>开源Mozilla（套件）网络浏览器的第一个正式稳定版本重磅发布。</p>
+<p>Mozilla 1.0是一款稳定的，跨平台的浏览器，具有当时最先进的渲染引擎。与其他浏览器不同，它包含一个弹出窗口（Pop-up）阻止程序。 </p>
+<p><strong>2002年8月</strong><br>Netscape 7 发布。</p>
+<p>Netscape 7基于Mozilla 1.0浏览器，但与Netscape 6一样，它捆绑了其他软件。</p>
+<p>大约在同一时间，AOL使用相同的渲染引擎发布了Mac版AOL客户端。</p>
+<p>也提供了适用于Windows的AOL客户端的类似“测试版”，但从未发布最终版本。由于AOL的普及，AOL只是利用这一优势来继续AOL与Microsoft的捆绑销售。</p>
+<p><strong>比较：</strong><br>在这一点上，Mozilla在技术上明显领先于IE 6。</p>
+<p>由于某种原因，可能是因为他们害怕广告公司的抵制，因此Netscape在初始版本中从Mozilla禁用了新的弹出窗口阻止程序，但是在更新中很快对此进行了更改。</p>
+<p>当然，此时IE已占主导地位，但Netscape的名称仍在某些人中占有一定的分量。</p>
+<p>Netscape 7.0总体被认为是一个非常好的发行版，但是到那时，更多的人选择Mozilla本身而不是Netscape。</p>
+<hr>
+<p><strong>2003年7月15日：</strong><br>AOL宣布将关闭Netscape Communications部门。<br>AOL曾将Netscape和AOL客户端与Mozilla的渲染引擎结合使用，以与Microsoft签订为期7年的协议以使用IE作为其客户端引擎来获得更好的条款。现在，他们完成了任务，然后就扔掉了Netscape，像扔掉一个用过的纸杯。</p>
+<p>同一天，非营利性的Mozilla基金会成立。 </p>
+<p><strong>2003年6月30日：</strong><br>基于Mozilla 1.4的Netscape 7.1发布。</p>
+<p>几天后，Netscape Communications Division被移除。人们普遍认为这将是最新版本。 </p>
+<p><strong>2003年6月16日：</strong><br>发布了Mac OS X的IE 5的最后一个次要更新。微软明确表示，不会有用于Mac的IE的将来版本。（未能在Mac上发布IE 6就已经很明显的说明这件事） </p>
+<p><strong>2003年6月23日：</strong><br>Apple宣布并发布了适用于Mac OS X的Safari 1.0。</p>
+<p>渲染引擎基于鲜为人知的Linux的开源Konqueror浏览器。这个渲染引擎比任何其他浏览器都快得多，设计和实现也更简洁（显然这东西吸引了乔布斯的完美意识）</p>
+<p>几个月后，MacOS X 10.3和作为其默认浏览器的Safari一起发布。</p>
+<p><strong>比较：</strong><br>微软，看到他们以前的竞争已经完全结束，就使IE 6陷入停滞。Windows XP以外的平台的IE被删除。</p>
+<p>尽管Netscape公司垮台，但Mozilla浏览器的开发仍在不断发展，并越来越受欢迎。</p>
+<hr>
+<p><strong>2004年8月8日，</strong><br>Microsoft最终发布了IE 6的次要更新，该更新仅适用于包含弹出窗口阻止程序的Windows XP SP 2。 </p>
+<p><strong>2004年8月17日：</strong><br>AOL发布了Netscape 7.2。<br>显然，AOL与Netscape的前雇员签订了合同来创建它。它基于Mozilla 1.7，主要旨在带来广告收入。</p>
+<p>此版本的发行遇到了集体无视。 </p>
+<p><strong>2004年11月9日：</strong><br>Firefox 1.0发布。</p>
+<p>Firefox 1.0火爆发布，人们开始收回网络！！！！</p>
+<p>Firefox的目标是出品比Mozilla套件更小，更轻便的浏览器。为此，Firefox只是浏览器，不包含邮件组件或HTML编辑器。</p>
+<p><strong>2004年11月：</strong><br>史蒂夫·巴尔默（Steve Balmer）丢下椅子，发誓要“干掉tm的Google”（据称）<br><img src="/img/ieisevil/retrochair.gif" alt=""></p>
+<p><strong>比较</strong><br>此时，IE已成为间谍软件、恶意软件、病毒的应急箱。</p>
+<p>Netscape 7.2是一个不错的版本，主要是因为它只是Mozilla 1.7的重命名版本。</p>
+<p>Firefox 1.0还使用了与Mozilla 1.7相同的渲染引擎。主要变化是用户界面和品牌。Mozilla.org还更改了重点，以强调Firefox的推广。</p>
+<hr>
+<p><strong>2005年5月19日：</strong><br>AOL发布了Netscape8。值得一提的是，它鲜为人知。<br>此版本是由外部承包商或他们的市场部门开发的。</p>
+<p>Netscape 8基于Firefox，还有个丑陋的新外观。它仅适用于Windows，并且还需要安装IE。它包括一项功能，该功能允许站点在Netscape中使用IE进行渲染。 </p>
+<p><strong>2005年9月：</strong><br>Opera版本8.5发布——不再添加横幅广告，并且免费。 </p>
+<p><strong>2005年11月29日，</strong><br>Firefox 1.5发布。<br>许多全面的改进，包括渲染引擎的改进，增加了渲染SVG（一种矢量图像格式）的能力。 </p>
+<p>2006年10月24日，<br>Firefox 2发布。<br>包括网络钓鱼检测和内置的表单字段拼写检查器。使用与1.5相同的渲染引擎，和Firefox 3已经做到的一样。 </p>
+<p><strong>2006年10月18日，</strong><br>Microsoft吹掉IE身上的灰尘，发布了IE 7。</p>
+<p>随着Firefox的流行，Microsoft重新安排了其UI，进行了选项卡式浏览，并对其渲染功能进行了一些修复。</p>
+<p>由于微软在很长一段时间内都没有进行任何重大的开发并放弃了IE，所以它仍然无法与Firefox，Opera或Safari媲美。此外，正如古老的谚语所说：“你不能擦拭草皮”。 </p>
+<p><strong>2007年6月11日，</strong><br>第一个Windows版Safari Beta发布。<br>直到现在，Safari还是仅适用于Apple Macintosh（即 Mac）。</p>
+<p><strong>2007年9月</strong><br>技术上，Firefox，Opera和Safari都比IE 7早了好几年。由于IE不可拆卸地与Windows捆绑在一起的通常原因，IE仍然在大多数地方使用最多，但数量正在下滑。令人惊讶的是，即使在Microsoft将IE 7推销为Windows XP的“关键更新”之后，使用IE浏览器的人仍在一半以上使用古老的IE 6浏览器。</p>
+<p>自IE 6发行以来，微软似乎就被浏览器的“集成”和自满情绪所困扰。人们（尤其是公司）不希望升级到Vista的原因之一是他们的许多Web应用程序都用不了，或未通过IE 7“认证”。</p>
+<p>由于IE 6已经发布了很长时间而没有任何渲染更改，因此人们发现它比发布和更改频率更高并绑定到浏览器的浏览器更方便。现在，突然之间IE 6无法在Vista上运行。唯一的正式Microsoft“受支持”方式是在Virtual PC中运行Windows XP和IE 6！</p>
+<p>如果这些公司具有使他们的应用程序全部在Firefox中运行的远见卓识，那么这些程序无论在什么系统运行都没关系。但是没有人听我说……</p>
+<p>如今，大多数Linux发行版都有正确的想法。他们有一个用于本地内容（例如帮助文件）的HTML渲染器，以及一个用于实际浏览Web的单独的浏览器。您可以删除并替换常规浏览器，而不会导致操作系统出现任何问题。</p>
+<p>ActiveX已死。实际上，“在Web浏览器内部”运行任何旧应用程序的整个想法已经死了。有些人仍然坚持这些想法。如果确实需要运行这样的应用程序的方法，那么答案就是Java。尽管任何主流浏览器都不再提供该功能。它包含在MacOS X中，但不包含在Windows中——因为Microsoft希望你用“.Net”。</p>
+<p>Netscape已死。美国在线（即上文的AOL）谋杀了它。美国在线正在举起一个带有“Netscape”名字标签的袜子木偶。不是吗？</p>
+<p>未来？<br>好吧，我认为微软将更加努力地推广他们自己的只能与IE一起使用、或只能与IE一起才能完美使用的Web应用程序。这些可以轻松地将业务锁定。</p>
+<p>无论好坏，网络仍在发展。人们正在发现与此有关的新事物，他们将很乐意尝试将其出售给管理层。</p>
+<p>我看不到Microsoft在不久的将来再次更新其Web浏览器。他们将等到出现需要压制的东西。</p>
+<p>至于浏览器之战本身，IE和其他浏览器的功能仍然有所不同。如果网络可以达到您使用哪种浏览器都没关系的程度，那么我们都是赢家。</p>
+<h1 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h1><p><strong>2007年10月15日</strong><br>Netscape 9发布。没有人注意到。一点也不。我也没有。 这个版本只是Firefox 2的重新命名版本，相当不错。它放弃了使用IE查看页面的功能，并且不再需要安装IE。<br><strong>2008年3月1日，</strong><br>AOL完全终止了对Netscape的支持。没有进一步的更新，下载页面建议下载其他浏览器。自从他们刚刚发布Netscape 9以来，似乎很快就出现这种情况了。</p>
+<p><strong>2008年6月17日</strong>，<br>Firefox 3发布。此版本表示已经进行了相当长一段时间的许多工作。此版本放弃了在Windows 9x，ME和NT 4上运行的功能。</p>
+<p><strong>2008年9月2日，</strong><br>Google发布了自己的网络浏览器，称为“Chrome”。Chrome和Safari一样，都是基于Konquer渲染引擎的。</p>
+<p><strong>2009年3月20日</strong><br>IE 8发布。（微软宣布IE 8为“互联网的终结”）</p>
+<p><strong>2009年6月30日，</strong><br>Firefox 3.5发布。此版本中最大的亮点是内置的视频播放器和编解码器。</p>
+<p><strong>2009年</strong><br>Microsoft准备了Windows 7e（就是欧洲版的Windows 7），他们声称它不包括Internet Explorer（实际上唯一删除的部分是小型IEXPLORE.EXE加载程序）。这样做是为了解决欧盟的反托拉斯问题。似乎在最后一刻，他们决定将常规Windows 7送到欧洲国家。</p>
+<p><strong>2010年3月</strong><br>作为欧盟法律协议的一部分，Microsoft向欧洲用户推出“浏览器投票”。</p>
+<p><strong>2011年3月15日</strong>，<br>Microsoft发布了IE9。此版本放弃了在仍广泛使用的Windows XP上运行的功能。同时，Firefox 4可以在MacOS X，Linux，Windows 2000甚至OS / 2上运行！Firefox 4甚至可以在Windows 98上使用“ KernelEx”内核扩展程序运行（非正式），还有TenFourFox，它选择了对Mozilla正式放弃的10.4 / 10.5下的PPC Mac的支持。</p>
+<p><strong>2011年6月21日，</strong><br>作为新的“快速发布”计划的一部分，Mozilla在Firefox 4发布之后立即发布了Firefox“ 5”。新的短暂的生命周期终止以及不受欢迎的用户界面更改使许多用户感到不安。</p>
+<p><strong>2012年1月11日</strong><br>现在，在Firefox版本9中，Mozilla.org宣布了计划中的“企业”版本，以满足需要稳定时间超过5秒的稳定软件版本的人们。 </p>
+<p><img src="/img/ieisevil/retromoz_trashIE.jpg" alt=""></p>

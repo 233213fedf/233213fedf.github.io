@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>开学第二周的 Go for it! 更新记录</title>
+      <link href="/posts/72b76e08/"/>
+      <url>/posts/72b76e08/</url>
+      
+        <content type="html"><![CDATA[<p><del>其实都是暑假时候干的</del><br><a id="more"></a></a><br><img src="/img/Sprite-0004.png" class="lazyload" data-srcset="/img/Sprite-0004.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""></p><p>【Build 20190822 &amp; 20190913 —— What’s New】</p><ul><li>确定出场人物为：Sarah、Chen Jie、Wu Yifan、Liu Yun（见旧课本）、Amy、Lisa和Sad and Thirteen（伤心13，详见八下课后注释）</li></ul><p>（上图为Sarah、Chan Jie、Liu Yun和Amy）</p><ul><li>高仿野生的ARPG系统。</li><li>任务系统。</li><li>其他。</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Go for it! </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>游戏 | The Shirt of a Happy Man</title>
+      <link href="/posts/97372c4b/"/>
+      <url>/posts/97372c4b/</url>
+      
+        <content type="html"><![CDATA[<blockquote><a id="more"></a></blockquote><p>名称： The Shirt of a Happy Man<br>（改编自：九年级全一册 Unit 11 Section A 3a、Section B 1c、1d）<br><a id="more"></a><br>大小:   约 58.4 MB<br>发布时间： 2019/02/18<br>下载地址： <a href="https://jxjjxy-my.sharepoint.com/:u:/g/personal/g1a_i3aaf_t_odmail_cn/EaPiwWTLK8VFlmQ4XKbXAIUBROisYoE4jBfLaEO3NDtk7g?e=NHINaa" target="_blank" rel="noopener">https://jxjjxy-my.sharepoint.com/:u:/g/personal/g1a_i3aaf_t_odmail_cn/EaPiwWTLK8VFlmQ4XKbXAIUBROisYoE4jBfLaEO3NDtk7g?e=NHINaa</a><br>截图<br><img src="https://i.loli.net/2019/02/18/5c6a87bed9f6b.png" class="lazyload" data-srcset="https://i.loli.net/2019/02/18/5c6a87bed9f6b.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""><br><img src="https://i.loli.net/2019/02/18/5c6a87bec5a79.png" class="lazyload" data-srcset="https://i.loli.net/2019/02/18/5c6a87bec5a79.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 发布 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 原创 </tag>
+            
+            <tag> 发布 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于“自主学习指导课程”系列丛书使用情况的问卷调查</title>
+      <link href="/posts/547ff699/"/>
+      <url>/posts/547ff699/</url>
+      
+        <content type="html"><![CDATA[<p>下<a id="more"></a></a>载 ZIP 文件： <a href="/res/ALGC-Survey-Original.zip">/res/ALGC-Survey-Original.zip</a><br><pre><code>&lt;div class=&quot;row&quot;&gt;&lt;embed src=&quot;/res/ALGC-Survey.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ALGC </tag>
+            
+            <tag> 自主 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>更新： Go for it! 2 (ver 0.02, 2018/09/01)</title>
+      <link href="/posts/3a143207/"/>
+      <url>/posts/3a143207/</url>
+      
+        <content type="html"><![CDATA[<p>w<br><a id="more"></a></a></p><p><video id="bf01" src="/res/go2_002_91.webm" controls autoplay="false" border="0"></video></p><h1 id="主要内容"><a href="#主要内容" class="headerlink" title="主要内容"></a>主要内容</h1><p> 1、系统更新：<br>    （1）优化战斗系统；（相对于 2018/08/29）如上图所示。<br>    （2）其他 bug 修正。</p><pre><code>2018/09/02</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Go for it! </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>对于 Go for it!（2018/04/01更新）的更新（2018/07/28）及完整版</title>
+      <link href="/posts/712b0039/"/>
+      <url>/posts/712b0039/</url>
+      
+        <content type="html"><![CDATA[<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><a id="more"></a></a><ul><li>对 Minimap 的修改。</li><li>修复了一些 Bug。</li></ul><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>Patch：<a href="https://github.com/233213fedf/gofor-it1/releases/download/v1.1-18.07.28/G1PATCH-20180728.exe" target="_blank" rel="noopener">https://github.com/233213fedf/gofor-it1/releases/download/v1.1-18.07.28/G1PATCH-20180728.exe</a></p><p>完整版：<a href="https://pan.baidu.com/s/1ZHwGMfVCYWZokBvfkMKPlw" target="_blank" rel="noopener">https://pan.baidu.com/s/1ZHwGMfVCYWZokBvfkMKPlw</a></p><p> 2017.7.28</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 发布 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 发布 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于 Go for it! 2 Build 0.02</title>
+      <link href="/posts/21d88f64/"/>
+      <url>/posts/21d88f64/</url>
+      
+        <content type="html"><![CDATA[<h1 id="最近在做的"><a href="#最近在做的" class="headerlink" title="最近在做的"></a>最近在做的</h1><a id="more"></a></a><ul><li>事件<del>驱动的</del>菜单。<br>如下视频所示。</li></ul><video id="bf01" src="/res/go2002.webm" controls autoplay border="0"></video><p><a href="/res/go2002.webm">go2002.webm</a></p><ul><li>字体更改</li></ul><p>由最初的 <code>方正黑体_GBK</code> 改为 <code>方正宋三_GBK</code> 和 <code>Arno Pro</code>，中文用 <code>方正宋三_GBK</code>，英文用 <code>Arno Pro</code>。</p><p><img src="https://i.loli.net/2019/01/27/5c4da501a754f.png" class="lazyload" data-srcset="https://i.loli.net/2019/01/27/5c4da501a754f.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""></p><p>如图，文字 <code>Sarah Null</code> 使用 <code>Arno Pro</code> 字体。</p><p>以上。</p><p>2018.7.23</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>转载 | 蒙阴三中赋</title>
+      <link href="/posts/9b4c0e15/"/>
+      <url>/posts/9b4c0e15/</url>
+      
+        <content type="html"><![CDATA[<p>原文出自<a href="http://www.my3edu.com" target="_blank" rel="noopener">http://www.my3edu.com</a><br><a id="more"></a></a><br>东山巍巍，汶水汤汤。<em>算圣故里，文脉源长。</em>钟灵毓秀，遄飞其光。浩哉三中，气象泱泱。地造其秀，天设其庠。<strong><em>斯校始于公元一九九七年。</em></strong>弘人文而济时势，两换其名。<strong>逢新政而扬其姿，易地三方。</strong>先行者，披荆斩棘，筚路蓝缕。后继人，高屋建瓴，士气昂扬。<a href="about:blank" target="_blank" rel="noopener">承前贤之开拓，滋兰树蕙。</a> 择新址而领潮，鼓帆起航。君不见群楼环映，池阁回廊。云松修竹，郁郁苍苍。青青子衿，代有脱颖之学士；累累硕果，每得出众之俊郎。  </p><hr><p>峥嵘世纪，杏坛馨香。以人为本，和德蕴芳。</p><p>为师者，</p><blockquote><p>合作、探索、求实、创新，</p></blockquote><p>身正垂范，燃红烛而隽永；</p><p>为学者，</p><blockquote><p>铭责、笃行、立志、成才，</p></blockquote><p>秉承校训，飞神思于华章。全校戮力，共襄教学伟业。师生一心，同举虎步龙骧。木铎振彻，金声激荡。欣欣学府，凤翥龙翔，跻身省级之示范；秀出群伦，佳绩屡创，更倾功业之煌煌。  </p><hr><p>嗟夫！三中。维德维才，蕴玉衔璋。文教风行，日新月昌。杏坛明珠兮熠熠，教泽雍穆兮堂堂！岁次甲午，七月未央，曷胜感慨，乃赋以彰！  </p><hr><figure class="highlight javascript hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$(<span class="hljs-built_in">document</span>).ready(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;</span><br><span class="line">    alert(<span class="hljs-string">'hello world'</span>);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>[发布]Go for it! 1.1</title>
+      <link href="/posts/164db782/"/>
+      <url>/posts/164db782/</url>
+      
+        <content type="html"><![CDATA[<blockquote><a id="more"></a></blockquote><p>名称： 《Go for it!》<br><a id="more"></a><br>大小： 约 138 MB<br>发布时间： 2018.2.29<br>下载地址： <a href="https://pan.baidu.com/s/1c31P9DI" target="_blank" rel="noopener">https://pan.baidu.com/s/1c31P9DI</a>；密码jten<br>其他： <a href="https://rpg.blue/forum.php?mod=viewthread&amp;tid=405815" target="_blank" rel="noopener">https://rpg.blue/forum.php?mod=viewthread&amp;tid=405815</a></p><p>截图<br><img src="https://i.loli.net/2019/01/27/5c4da7cb6a1c4.png" class="lazyload" data-srcset="https://i.loli.net/2019/01/27/5c4da7cb6a1c4.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""><br><img src="https://i.loli.net/2019/01/27/5c4da7cd2dc23.png" class="lazyload" data-srcset="https://i.loli.net/2019/01/27/5c4da7cd2dc23.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""><br><img src="https://i.loli.net/2019/02/15/5c66b2ec00681.png" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66b2ec00681.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""><br><img src="https://i.loli.net/2019/02/15/5c66b2ec2df10.png" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66b2ec2df10.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 发布 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 原创 </tag>
+            
+            <tag> 发布 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>蒙阴三中运动会消息（2013 - 2017）</title>
+      <link href="/posts/b856eeb6/"/>
+      <url>/posts/b856eeb6/</url>
+      
+        <content type="html"><![CDATA[<p>9月XX日，秋高气爽，风和日丽。蒙阴三中隆重举行20XX年秋季田径运动会。<a id="more"></a></a></p><p></p><h3 id="2013"><a href="#2013\" class="headerlink\" title="2013\"></a>2013</h3><p>9月28日，<b><em>秋高气爽，风和日丽。</em>蒙阴三中隆重举行2013年秋季田径运动会。</b>多年来，<strong>蒙阴三中</strong>十分重视师生体育运动的开展，积极响应上级号召，以“我运动、我健康、我快乐”为主题，开展阳光体育运动，每天坚持锻炼一小时。<b>本届运动会的成功举办，是落实素质教育的具体行动，给同学们自我管理、自主发展展示个性特长提供的舞台，也是对同学们心理素质，身体素质，体育运动水平的一次验收，同时这也是全校师生道德品质、思想作风、精神面貌和校风校纪的一次大展示。</b><br><a id="more"></a><br>素质教育是一种完善性、超越性的教育。在过去的一年里，<strong>蒙阴三中</strong>各项工作包括体育艺术教育工作开展顺利，齐头并进，成绩显著。在今年4月全市中小学生运动会上，该校舞蹈队代表全县参加的集体徒手操和舞蹈啦啦操分别获得全市第二名和第六名的好成绩，为全校为全县争了光。学校在努力提高学生思想道德素质，发展学生智力，抓好教育教学质量的同时，始终把加强体育运动、增强学生体质纳入学校教育的重要内容之中，学校体育教学特色鲜明，成绩斐然。<br>在本次运动会上，456名运动员参加了72个体育竞技项目的角逐比拼。<b><em>在比赛过程中，许多同学主动搀扶跌倒同学，热心帮助参赛运动员，充分体现了“友谊第一，比赛第二”的运动精神。全体运动员、裁判员严格遵守竞赛规则，积极履行自己的职责，积极发扬奋发有为、吃苦耐劳的精神，努力克服各种困难，赛出了水平，赛出了风尚，获得了体育竞技和精神文明的双丰收。全校师生再一次共同演绎了“更高、更快、更强”的奥林匹克体育精神，进一步繁荣了体育文化。</em></b><br></p><p></p><p><a href="https://i.loli.net/2019/02/15/5c66855498c47.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66855498c47.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66855498c47.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_1.jpg"></a></p><p><a href="https://i.loli.net/2019/02/15/5c66855496ba9.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66855496ba9.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66855496ba9.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_2.jpg"></a></p><p><a href="https://i.loli.net/2019/02/15/5c66855496084.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66855496084.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66855496084.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_3.jpg"></a></p><p><a href="https://i.loli.net/2019/02/15/5c668554989c1.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c668554989c1.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c668554989c1.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_4.jpg"></a></p><p></p><h3 id="2015"><a href="#2015" class="headerlink\" title="2015"></a>2015</h3><p>9月29日，<b><em>秋高气爽，风和日丽。蒙阴三中隆重举行2015年秋季田径运动会。</em></b><br>在本次运动会上，全体运动员、裁判员严格遵守竞赛规则，积极履行自己的职责，<em>积极发扬奋发向上、吃苦耐劳的精神，努力克服各种困难，赛出了水平，赛出了风尚，获得了体育竞技和精神文明的双丰收。<b>在比赛过程中，许多同学主动搀扶跌倒同学，热心帮助参赛运动员，充分体现了“友谊第一，比赛第二”的运动精神。全校师生再一次共同演绎了“更高、更快、更强”的奥林匹克体育精神，进一步繁荣了体育文化。</b></em><br>    <b>多年来，学校在努力提高学生思想道德素质，发展学生智力，抓好教育教学质量的同时，始终把加强体育运动、增强学生体质纳入学校教育的重要内容之中。本届运动会的成功举办，是落实素质教育的具体行动，给同学们自我管理、自主发展展示个性特长提供的舞台，也是对同学们心理素质，身体素质，体育运动水平的一次验收，同时这也是全校师生道德品质、思想作风、精神面貌和校风校纪的一次大展示。</b></p><br><a href="https://i.loli.net/2019/02/15/5c668554b1938.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c668554b1938.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c668554b1938.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_5.JPG"></a><p></p><p><a href="https://i.loli.net/2019/02/15/5c668554b5d99.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c668554b5d99.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c668554b5d99.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_6.JPG"></a></p><p><a href="https://i.loli.net/2019/02/15/5c668554b50f6.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c668554b50f6.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c668554b50f6.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_7.JPG"></a></p><p><a href="https://i.loli.net/2019/02/15/5c668554c6b1f.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c668554c6b1f.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c668554c6b1f.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_8.JPG"></a></p><p><a href="https://i.loli.net/2019/02/15/5c668554acba0.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c668554acba0.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c668554acba0.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_9.JPG"></a></p><p></p><h3 id="\" 2016\""=""><a href="#2016\" class="headerlink\" title="2016\"></a>2016</h3><p>   9月30日，<b><em>秋高气爽，风和日丽。蒙阴三中隆重举行2016年秋季田径运动会。</em></b></p><p>   <b><em>在比赛过程中，许多同学主动搀扶跌倒同学，热心帮助参赛运动员，充分体现了“友谊第一，比赛第二”的运动精神。全体运动员、裁判员严格遵守竞赛规则，积极履行自己的职责，积极发扬奋发有为、吃苦耐劳的精神，努力克服各种困难，赛出了水平，赛出了风尚，获得了体育竞技和精神文明的双丰收。全校师生再一次共同演绎了“更高、更快、更强”的奥林匹克体育精神，进一步繁荣了校园体育文化。</em></b></p><br><a href="https://i.loli.net/2019/02/15/5c668554a9d07.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c668554a9d07.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c668554a9d07.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_10.JPG"></a><p></p><p><a href="https://i.loli.net/2019/02/15/5c66860a45f8d.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a45f8d.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a45f8d.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_11.JPG"></a><br><a href="https://i.loli.net/2019/02/15/5c66860a3a6e2.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a3a6e2.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a3a6e2.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_12.JPG"></a><br><a href="https://i.loli.net/2019/02/15/5c66860a3bfdd.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a3bfdd.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a3bfdd.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_13.JPG"></a><br><a href="https://i.loli.net/2019/02/15/5c66860a38060.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a38060.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a38060.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="运动会_14.JPG"></a></p><p></p><h3 id="2017"><a href="#2017" class="headerlink\" title="2017"></a>2017</h3><p> “欢庆二十年竞展英姿，喜迎十九大放飞梦想”。<strong>9月29日</strong>至30日，<b><em>秋高气爽，风和日丽。蒙阴三中在操场隆重举行2017年秋季田径运动会。</em></b>运动会由高建民副校长主持，焦方侠校长致开幕词，运动员代表、裁判员代表分别作了宣誓发言。<br>    开幕式伊始，举行了隆重的入场仪式。<strong>三中</strong>新建的仪仗队穿着整齐的服装，踏着整齐的步伐，迎着初升的朝阳升起鲜艳的五星红旗。首先入场的是学校彩旗队，随后，各班运动员代表组成的方队身着统一的服装，手举标语，高喊口号，精神饱满地步入会场，充分展示了<strong>三中学子</strong>的奕奕风采。<br>    <b>在本次运动会上，<em>许多同学主动搀扶跌倒同学，热心帮助参赛运动员，充分体现了“友谊第一，比赛第二”的运动精神。全体运动员、裁判员严格遵守竞赛规则，积极履行自己的职责，积极发扬奋发有为、吃苦耐劳的精神，努力克服各种困难，赛出了水平，赛出了风尚，获得了体育竞技和精神文明的双丰收。全校师生再一次共同演绎了“更高、更快、更强”的奥林匹克体育精神，进一步繁荣了校园体育文化。</em></b><br><br><a href="https://i.loli.net/2019/02/15/5c66860a48656.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a48656.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a48656.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="2018010330511855.jpg"></a><br><a href="https://i.loli.net/2019/02/15/5c66860a4963c.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a4963c.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a4963c.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="2018010330519573.jpg"></a><br><a href="https://i.loli.net/2019/02/15/5c66860a4e984.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a4e984.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a4e984.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="2018010330524745.jpg"></a><br><a href="https://i.loli.net/2019/02/15/5c66860a48e9d.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a48e9d.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a48e9d.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="2018010330530807.jpg"></a><br><a href="https://i.loli.net/2019/02/15/5c66860a11ef5.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a11ef5.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a11ef5.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="2018010330519573.jpg"></a></p><p><a href="https://i.loli.net/2019/02/15/5c66860a1b466.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a1b466.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a1b466.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="2018010330540495.jpg"></a></p><p><a href="https://i.loli.net/2019/02/15/5c66860a4963c.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/02/15/5c66860a4963c.jpg" class="lazyload" data-srcset="https://i.loli.net/2019/02/15/5c66860a4963c.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="2018010330519573.jpg"></a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test</title>
+      <link href="/posts/d87f7e0c/"/>
+      <url>/posts/d87f7e0c/</url>
+      
+        <content type="html"><![CDATA[<p></p><p>test:<a id="more"></a></a></p><blockquote><p>“It’s sad that many people don’t want to help others because they don’t want any trouble, but the driver didn’t think about himself. He only thought about saving a life.”  </p></blockquote><p></p><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote><br><blockquote><p>“欢庆二十年竞展英姿，喜迎十九大放飞梦想”。</p><footer><strong>???</strong><cite><a href="http://www.my3edu.com/html/show2069.htm" target="_blank\" rel="noopener\">蒙阴三中隆重举行秋季田径运动会</a></cite></footer></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/4a17b156/"/>
+      <url>/posts/4a17b156/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! <a id="more"></a>This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="hljs-string">“My New Post”</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

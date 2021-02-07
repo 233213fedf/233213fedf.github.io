@@ -1,0 +1,77 @@
+---
+title: Internet Explorer is Evil：前传
+date: 2020-02-23 13:56:27
+---
+<p>原文出自“Internet Explorer is Evil! ”<br>（<a href="http://toastytech.com/evil/index.html）" target="_blank" rel="noopener">http://toastytech.com/evil/index.html）</a></p>
+<p><img src="/img/ieisevil/happy95.png" alt=""></p>
+<h2 id="人们对Windows-95和Microsoft感到满意。"></h2><a href="#人们对Windows-95和Microsoft感到满意。" class="headerlink" title="人们对Windows 95和Microsoft感到满意。"></a>人们对Windows 95和Microsoft感到满意。</h1><p>对于PC用户而言，这是一个快乐的时光。微软刚刚发布了Windows 95，这是对Windows 3.1和DOS的巨大改进。</p>
+<p>Windows 95最终为PC用户带来了与Apple Macintosh媲美的，清晰，干净，经过深思熟虑的用户界面，同时还提供了与DOS和Windows以前版本的完全向后兼容性。在技术方面，微软通过在“16位” Windows之上实现与他们的NT操作系统兼容的32位API，几乎创造了奇迹。</p>
+<p>Windows 95也很重视选择。可以选择使用Windows 3.1程序管理器外壳，网络是可选的，并且所有附件都可以通过新的“添加/删除程序”控制面板项选择。</p>
+<p><img src="/img/ieisevil/win31progman2.png" alt=""></p>
+<p>与Windows 3.1相比，切换到Windows 95并非易事。桌面上的文件，不再需要程序管理器，无缝联网（seamless networking，？），以及10年前（相对）的MacOS 1.0或Xerox Star（Xerox开发的桌面环境，发布过Win3.x版）之类的桌面。</p>
+<h2 id="浏览器就是普通的应用程序。"></h2><a href="#浏览器就是普通的应用程序。" class="headerlink" title="浏览器就是普通的应用程序。"></a>浏览器就是普通的应用程序。</h1><p>什么是网络浏览器？Web浏览器是从网络检索文档并将其呈现在屏幕上的应用程序。</p>
+<p><img src="/img/ieisevil/msie3box.jpg" alt=""></p>
+<p>许多人不需要网络浏览器。互联网访问仍然是个新生事物，很多人在没有互联网的情况下过得很好。</p>
+<p>当时的网络浏览器是人们购买的商业产品。像任何其他知名软件包一样，您将去商店，拿起一个盒子，付款，将其带回家，然后在计算机上安装应用程序软件。</p>
+<p>有一个不同之处：Netscape的主要消费者目标是公司和企业，因此他们可以下载软件，并免费授权其个人使用。</p>
+<p>在这一点上，人们开始大肆宣传浏览器最终将如何以某种方式神奇地取代操作系统，以及将来所有应用程序将如何“基于网络”。当然，这引起了微软的注意。</p>
+<p>到这一比赛稍晚时，Microsoft许可了Mosaic的一个副本，将其命名为Microsoft Internet Explorer，并将其作为Windows 95“ plus”包的可选部分发布。</p>
+<p>Windows 95的软盘版本不包括Internet Explorer。但是，当Microsoft将IE 1作为非可选组件添加到CD-Rom版本时，警钟应该已经响起。可能由于Windows 3.1没有添加/删除功能而没有引起注意，因此人们仍然习惯于手动删除此类程序。</p>
+<p>包括IE 3的Windows 95 OEM Service Release 2也将其作为非可选组件，但是尽管具有更多的DLL组件，但在技术上仍然是可移动的。</p>
+<h1 id="微软强迫人们安装他们的浏览器和其他无味的东西。"><a href="#微软强迫人们安装他们的浏览器和其他无味的东西。" class="headerlink" title="微软强迫人们安装他们的浏览器和其他无味的东西。"></a>微软强迫人们安装他们的浏览器和其他无味的东西。</h1><p>之后浏览器之战变得非常激烈。</p>
+<p>微软发布了Internet Explorer 4，这是一个bug百出且臃肿的浏览器，鼓励使用高度不安全的ActiveX。就其本身而言，发布另一个Web浏览器无可厚非，但是Microsoft将其推向消费者的方法是不可接受的。</p>
+<p>首先，安装IE 4是一个非常侵入性的过程。其他浏览器，或者实际上任何普通应用程序，都不会涉及系统文件或更改操作系统的工作方式。IE 4安装在Windows 95或NT 4上时，会以其自己的特殊版本替换或更新许多系统文件，这有时会破坏其他应用程序的功能，并且，一旦安装IE 4，几乎不可能重新安装这些操作系统。</p>
+<p><img src="/img/ieisevil/iedesktopsm.png" alt=""></p>
+<p>默认情况下，IE 4还将Windows 95 / NT 4桌面替换为其“桌面更新”，其中添加了以下内容：</p>
+<ul>
+<li>使用Internet Explorer而不是独立文件管理器来管理文件。</li>
+<li>将文件夹显示为“网页”。</li>
+<li>在每个文件浏览器窗口以及许多其他地方添加了IE徽标。</li>
+<li>总是启动IE而不是默认浏览器的“收藏夹”书签菜单和位置/ URL栏。</li>
+<li>在桌面（原文写成 <code>destkop</code> ）上添加了带有广告链接的IE“频道”栏！</li>
+<li>使IE看起来像启动速度更快，因为99％的IE已经加载到RAM中。</li>
+<li>减慢了其他应用程序的速度，并阻止了用户使用其他Web浏览器，因为IE已被加载到RAM中。<br>IE 4也开始用“HyperHelp”帮助文件（现在的CHM格式）替换Windows帮助文件，该文件使用IE呈现内容。<br>为了增加更多的侮辱性，IE 4卸载程序只会“还原”到任何以前的IE版本，而不是干净地卸载，即使那样它也会留下一堆垃圾。</li>
+</ul>
+<p><img src="/img/ieisevil/ieeeeesm.png" alt=""></p>
+<p>令我惊讶的是，任何人都认为这是一个好主意。但这对Microsoft无关紧要，其目的是将Netscape从用户的桌面上赶出去，以及市场。</p>
+<h2 id="捆绑，捆绑，捆绑！你没有选择！"></h2><a href="#捆绑，捆绑，捆绑！你没有选择！" class="headerlink" title="捆绑，捆绑，捆绑！你没有选择！"></a>捆绑，捆绑，捆绑！你没有选择！</h1><p>Netscape试图将自己与第三方软件和ISP软件捆绑在一起，但是Microsoft具有无限的影响力和力量，因此他们选择利用这一切。</p>
+<p><img src="/img/ieisevil/requiresie.png" alt=""><br>“安装程序错误——安装程序找不到IE 4.0及以上版本的IE。安装将终止。”</p>
+<p>Microsoft开始捆绑或要求Internet Explorer作为其软件产品的非可选组件。他们甚至“说服”许多其他软件供应商也捆绑了Internet Explorer。</p>
+<p>生产力工具，游戏，实用程序甚至设备驱动程序开始要求安装Internet Explorer才能运行。有时他们将HTML渲染器嵌入到他们的应用程序中（没有出于任何充分的理由地胡加），有时他们使用了其他与IE相关的库，有时只需要可以在其他地方获得的DLL更新，比如通常将IE-HyperHelp文件捆绑在一起而不是WinHelp帮助文件。</p>
+<p>微软对IE的策略几乎涵盖了所有可能的基础：</p>
+<p><strong>【家庭用户：Windows 98】</strong></p>
+<p>Windows 95成功之后，家庭用户可能会用光积蓄去购买Windows 98升级版或购买带有Windows 98的新计算机。Windows98非可选地包括带有上述所有恐怖之处的Internet Explorer 4和IE 4桌面。这意味着Windows附带的每台新计算机也都必须具有IE。因为已经安装了浏览器，所以人们不太可能安装另一个浏览器。</p>
+<p>对于那些认为它应该是可选的人，微软大肆宣扬IE现在是操作系统的“集成”部分，并且永远不会被删除。至少在Shane Brooks与可以很好地驱除Windows 98中的IE的98lite一起出现之前是这样的。</p>
+<p><strong>【企业用户：Outlook 98】</strong></p>
+<p>对于不太可能升级到Windows 98的公司工作站，Microsoft发布了Outlook 98。许多企业和组织曾经并且仍然迷恋Exchange Server上的电子邮件，而Outlook几乎是唯一可以访问其全部功能的应用程序。Outlook 97实际上是非常好的产品，不需要任何Web浏览器。为了纠正这种疏忽，Microsoft发布了对Outlook 98的“免费”更新。</p>
+<p>Outlook 98使用IE 4来撰写和呈现HTML电子邮件（而不只是翻译为RTF）以及消息，任务和日历事件的摘要页面，称为“Outlook Today”。每个人都非常乐意忽略这一事实，因为它使Outlook暴露了IE 4中存在的所有错误和漏洞。</p>
+<p>企业网络的负责人通常会对执行相同操作的多个已安装应用程序产生“过敏”。他们可能一直在使用Netscape，但是现在他们的新软件也需要安装IE。有一个必须去掉…您猜哪一个？</p>
+<p><strong>【NT Option 包】</strong></p>
+<p>NT 4服务器升级的可能性最小，因为只要现有系统正常运行，系统管理员通常就不会在意铃声或口哨声或新功能。对于这些人，Microsoft创建了一个恰当命名的“Option”包，该包安装了IE4，作为Internet Information Server（即IIS）更新的必需部分。如果您想要或需要IIS的最新版本，必须安装IE 4！</p>
+<p><strong>【苹果Macintosh】</strong></p>
+<p>而且，微软迫使Apple将IE for Mac捆绑为默认浏览器，而不是Netscape，好像强迫所有Windows用户使用IE还不够糟糕，还要强迫Mac用户。如果苹果拒绝，微软将停止为Mac提供Office。史蒂夫·乔布斯被予以成片的嘘声，因为他宣布，IE浏览器将默认浏览器。</p>
+<p>各位，如果某个软件产品让您在成千上万的用户面前被嘘（吁↗↘——），那是否不应该告诉您该产品存在可怕的，相当可怕的错误呢？</p>
+<p><strong>【互联网/内联网网站】</strong></p>
+<p>然后，我敢提在需要IE的地方突然弹出的网站，或者给其他浏览器带来次等体验的网站吗？</p>
+<p>最初，Microsoft鼓励许多站点使用纯IE技术。他们的Web内容生成工具（例如FrontPage，Microsoft Word和PowerPoint）均设计为使用IE特定的功能。在IE成为企业的“标准”之后，内网开发人员变得懒惰，只为IE开发。</p>
+<p>值得庆幸的是，大多数是IE的公共互联网站点都只不过是渡渡鸟而已，但是那里仍然有很多老旧的公司内网。</p>
+<p>可悲的是，Microsoft继续推出只能在IE中完全运行的基于Web的产品。</p>
+<p><strong>【OEM（原始设备制造商）】</strong></p>
+<p>万一像Dell或Compaq这样的OEM有了关于运送带有用户需要的浏览器的计算机的任何明智的想法，Microsoft将禁止它们删除/禁用IE甚至只是删除IE桌面图标。要么保留图标，要么微软将停止向他们出售Windows——结果可想而知。</p>
+<p>同样，OEM厂商对交付具有相同功能的多个应用程序具有类似的过敏反应，因为它们必须花钱为两者提供“支持”。</p>
+<p><strong>【网络】</strong></p>
+<p>当可以使用网络基础架构时，为什么还要使用台式机呢？</p>
+<p>当时，保护公司网络中的计算机，过滤和优化Web流量的一种常用方法是将用户置于隔离的网络中，所有Web访问都通过“代理”服务器进行。微软生产了自己的产品，称为“Microsoft Proxy Server”（后来更名为ISA Server），许多企业都乐于使用此产品。<br><img src="/img/ieisevil/handshake2.png" alt=""></p>
+<p>与标准Web代理不同，Microsoft的Web代理默认要求与客户端进行特殊的秘密“握手”，称为NTLM身份验证。只有Microsoft Internet Explorer知道如何执行这种“握手”。另一种选择是通过网络发送标准的未加密纯文本密码，这种设置非常麻烦，因为使用的密码通常与用户的Windows网络登录名相同。</p>
+<p>一旦公司或组织实施使用Microsoft Proxy Server，该网络上的任何非Internet Explorer浏览器或Internet工具将立即停止工作。<br><img src="/img/ieisevil/nsdenied.gif" alt=""></p>
+<p>直到Mozilla Suite 1.4（Netscape 7.1），NTLM才可以在其他任何浏览器中使用。（那时只是最初在Windows上做到），但是那时NTLM对其的损害已经很久了，IE已完全控制了企业内网。</p>
+<h2 id="尘埃落定，乌云密布。"></h2><a href="#尘埃落定，乌云密布。" class="headerlink" title="尘埃落定，乌云密布。"></a>尘埃落定，乌云密布。</h1><p>所有这些都足以像一个漏洞一样成功地压缩Netscape。在IE 5推出之时，Netscape在大多数人心目中已经成为了历史。</p>
+<p>有趣的是，一旦Netscape出现问题，MS几乎会让IE烂掉。IE 5.5和6.0是次要更新。IE 6持续了很长时间，没有进行任何更新，因此成为间谍软件，恶意软件和恶意广告的应急池。Mac版IE 5从未进行过重大更新，并最终停产。</p>
+<p>幸运的是，一些坚定的黑客同志们继续使用旧的Netscape代码创建Mozilla，然后创建Firefox，最终恢复了一定程度的竞争。在接下来的永恒中，我们几乎危险地只剩下IE 6！</p>
+<p>总之，人们终于开始理解困难的方式：</p>
+<ul>
+<li>Web浏览器实际上使除了最基本的东西以外的事物都成为差劲的客户端应用程序运行库。</li>
+<li>ActiveX是一场安全噩梦，是制作跨平台应用程序的对策。</li>
+<li>Web是与Microsoft的，或任何特定的操作系统分开的，是不断变化和发展的标准，因此仅针对一个特定的浏览器和版本实施应用程序而无意于使其保持最新状态只会带来灾难。</li>
+<li>将本地帮助文件或其他本地内容绑定到功能可能发生变化的“实时”Web浏览器是一个坏主意。<br>但是，没人听我说什么。</li>
+</ul>
