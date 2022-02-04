@@ -4532,7 +4532,7 @@
 			if (this.isStrImage(type) && this.adPauseShow) {
 				this.css(this.CB['adElement'], 'display', 'block');
 				var imgClass = 'adimg' + this.randomString(10);
-				var imgHtml = '<img src="' + ad['file'] + '" class="lazyload" data-srcset="' + ad['file'] + '" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" class="' + imgClass + ' lazyload">';
+				var imgHtml = '<img src="' + ad['file'] + '" class="lazyload" data-srcset="' + ad['file'] + '" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="' + imgClass + ' lazyload">';
 				if (ad['link']) {
 					imgHtml = '<a href="' + ad['link'] + '" target="_blank">' + imgHtml + '</a>';
 				}
@@ -4749,7 +4749,7 @@
 				this.css([this.CB['adBackground'], this.CB['adElement'], this.CB['adTime'], this.CB['adTimeText']], 'display', 'block');
 				this.css([this.CB['adMute'], this.CB['adEscMute']], 'display', 'none');
 				var imgClass = 'adimg' + this.randomString(10);
-				var imgHtml = '<img src="' + ad['file'] + '" class="lazyload" data-srcset="' + ad['file'] + '" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" class="' + imgClass + ' lazyload">';
+				var imgHtml = '<img src="' + ad['file'] + '" class="lazyload" data-srcset="' + ad['file'] + '" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="' + imgClass + ' lazyload">';
 				if (ad['link']) {
 					imgHtml = '<a href="' + ad['link'] + '" target="_blank">' + imgHtml + '</a>';
 				}
@@ -4820,7 +4820,7 @@
 				};
 				this.addListenerInside('click', adLinkClick, this.CB['adLink']);
 				this.adLinkTemp=ad['link'];
-				var linkTemp = '<a href="' + ad['link'] + '" target="_blank" class="ckadmorelink"><img src="' + this.ckStyle['png-1-1'] + '" class="lazyload" data-srcset="' + this.ckStyle['png-1-1'] + '" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" width="'+this.ckStyle['advertisement']['adLinkButton']['width']+'" height="'+this.ckStyle['advertisement']['adLinkButton']['height']+'"></a>';
+				var linkTemp = '<a href="' + ad['link'] + '" target="_blank" class="ckadmorelink"><img src="' + this.ckStyle['png-1-1'] + '" class="lazyload" data-srcset="' + this.ckStyle['png-1-1'] + '" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="'+this.ckStyle['advertisement']['adLinkButton']['width']+'" height="'+this.ckStyle['advertisement']['adLinkButton']['height']+'"></a>';
 				this.CB['adLink'].innerHTML = linkTemp;
 				this.css(this.getByElement('ckadmorelink'), {
 					color: '#FFFFFF',
@@ -4905,7 +4905,7 @@
 			this.PD.appendChild(adDiv);
 			ad['div'] = adDivID;
 			ad['element'] = imgClassName;
-			var adHtml='<img src="' + ad['file'] + '" class="lazyload" data-srcset="' + ad['file'] + '" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" class="' + imgClassName + ' lazyload">';
+			var adHtml='<img src="' + ad['file'] + '" class="lazyload" data-srcset="' + ad['file'] + '" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="' + imgClassName + ' lazyload">';
 			if(ad['link']){
 				adHtml='<a href="' + ad['link'] + '" target="blank">'+adHtml+'</a>';
 			}
@@ -6945,9 +6945,9 @@
 						clickEvent = this.clickEvent(list[i]['clickEvent']);
 						clickArr.push(clickEvent);
 						if (clickEvent['type'] == 'link') {
-							html += '<div class="' + newEleid + '" data-i="' + i + '"><a href="' + clickEvent['link'] + '" target="' + clickEvent['target'] + '"><img class="' + newEleid + '_image lazyload" src="' + list[i]['file'] + '" class="lazyload" data-srcset="' + list[i]['file'] + '" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" style="border:0;"></a></div>';
+							html += '<div class="' + newEleid + '" data-i="' + i + '"><a href="' + clickEvent['link'] + '" target="' + clickEvent['target'] + '"><img class="' + newEleid + '_image lazyload" src="' + list[i]['file'] + '" class="lazyload" data-srcset="' + list[i]['file'] + '" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="border:0;"></a></div>';
 						} else {
-							html += '<div class="' + newEleid + '" data-i="' + i + '"><img class="' + newEleid + '_image lazyload" src="' + list[i]['file'] + '" class="lazyload" data-srcset="' + list[i]['file'] + '" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" style="border:0;"></div>';
+							html += '<div class="' + newEleid + '" data-i="' + i + '"><img class="' + newEleid + '_image lazyload" src="' + list[i]['file'] + '" class="lazyload" data-srcset="' + list[i]['file'] + '" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="border:0;"></div>';
 						}
 						break;
 					case 'text':
