@@ -1,0 +1,19 @@
+/* Teyvatese Generic alphabet font */
+@font-face {
+  font-family: 'teyvat';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/res/teyvat-font-regular.ttf);
+  unicode-range: U+0061-007A;
+}
+/* 
+   Ancient Teyvatese (Enochian) alphabet font
+   use for Latin, English, etc.
+ */
+@font-face {
+  font-family: 'GS Enochian';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/res/gsenochian.ttf);
+  unicode-range: U+0061-007A;
+}
